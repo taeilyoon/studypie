@@ -1,0 +1,11 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Studypie Test",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "@location/Seoul" : "서울",
+    "@location/NewYork" : "뉴욕",
+    "@location/sydney" : "시드니",
+    "weather" : " 날씨"
+}
